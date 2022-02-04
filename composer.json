@@ -1,5 +1,5 @@
 {
-    "name": "fastly/fastly",
+    "name": "brentmullen/fastly",
     "license": "MIT",
     "type": "library",
     "description": "Provides a PHP client for the Fastly API",
@@ -15,7 +15,7 @@
         "source": "https://github.com/fastly/fastly-php"
     },
     "require": {
-        "php": "^7.2",
+        "php": ">=7.2",
         "guzzlehttp/guzzle": "^6.2.0 || ^7.2.0"
     },
     "require-dev": {
